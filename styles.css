@@ -1,0 +1,23 @@
+
+.my-container {
+    text-align: center;
+    
+}
+
+.my-row {
+    /* border: 3px solid rebeccapurple; */
+}
+
+.my-col {
+    border: 3px dotted cyan;
+    background-color: blueviolet;
+    color: azure;
+    
+}   
+
+h1 {
+    text-align: center;
+    color: blueviolet;
+    background-color: #FF00DC;
+}
+
